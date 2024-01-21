@@ -23,7 +23,7 @@
    Deploy Nginx pods on the AWS Kubernetes cluster by applying YAML manifests, ensuring the correct configuration for AWS networking and permissions; expose the service to make Nginx accessible externally.
 
 
-- [Part 3: Kubernetes Namespace creation](/3_Kubernetes_Namespace/Part-3.md)
+[Part 3: Kubernetes Namespace creation](/3_Kubernetes_Namespace/Part-3.md)
 
 1. **Namespace Definition:**
    Create a Kubernetes namespace by defining a YAML manifest specifying the namespace's metadata, and apply it using `kubectl create`.
